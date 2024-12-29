@@ -14,7 +14,10 @@
 - **CSS**
 - **JavaScript**
 - **Bootstrap**
-- **Python**
+- **Java**
+- **SQL**
+- **Spring Boot**
+- **C#**
 
 ## Objetivos
 
